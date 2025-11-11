@@ -1,4 +1,4 @@
-# CS3-Parking-Tickets
+# Charlottesville Parking Ticket Hotspots Case Study
 
 ## Repository Overview
 
