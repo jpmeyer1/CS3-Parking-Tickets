@@ -41,7 +41,7 @@ The [Parking Ticket Case Study Hook Document](CS3-Parking-Tickets/Hook%Document.
 
 ## Scripts
 **Instructions to Perform Analysis**
-1. Navigate to [SCRIPTS folder](CS3-Parking-Tickets/SCRIPTS)
+1. Navigate to [SCRIPTS folder](https://github.com/jpmeyer1/CS3-Parking-Tickets/tree/main/SCRIPTS)
 2. Open both .ipynb script files
 3. In each file, replace the file path and run code to generate output
 
