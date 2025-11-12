@@ -5,7 +5,7 @@
 ## Repository Structure
 
 ## Hook Document
-The [Parking Ticket Case Study Hook Document](CS3-Parking-Tickets/Hook%Document.pdf) introduces you to this case and what your role will be when going through the stuy.
+The [Parking Ticket Case Study Hook Document](CS3-Parking-Tickets/Hook%Document.pdf) introduces you to this case and what your role will be when going through the study.
 
 ## Rubric
 
