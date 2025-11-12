@@ -32,6 +32,7 @@ Welcome to the Charlottesville Parking Ticket Hotspots Case Study repository! In
 The [Parking Ticket Case Study Hook Document](https://github.com/jpmeyer1/CS3-Parking-Tickets/blob/main/Hook%20Document.pdf) introduces you to this case and what your role will be when going through the study.
 
 ## Rubric
+The [Parking Ticket Case Study Rubric]() file contains all deliverables you are expected to produce from this case study.
 
 ## Data
 **Instructions to access data:**
