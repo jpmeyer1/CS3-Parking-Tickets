@@ -5,6 +5,7 @@
 ## Repository Structure
 
 ## Hook Document
+The [Parking Ticket Case Study Hook Document] introduces you to this case and what your role will be when going through the stuy.
 
 ## Rubric
 
