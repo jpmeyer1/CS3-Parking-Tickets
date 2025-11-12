@@ -6,7 +6,7 @@ Welcome to the Charlottesville Parking Ticket Hotspots Case Study repository! In
 ## Repository Structure
 ├── **README.md**
 
-├── **LICENSE**
+├── **LICENSE.md**
 
 ├── **Hook Document.pdf**
 
