@@ -23,4 +23,4 @@ The [Parking Ticket Case Study Hook Document](CS3-Parking-Tickets/Hook%Document.
 3. In each file, replace the file path and run code to generate output
 
 ## Supplemental Material
-
+Contains extra documents to help contextualize both the motivation for this project, as well as some of the technical aspects involved in this project. 
