@@ -4,6 +4,29 @@
 Welcome to the Charlottesville Parking Ticket Hotspots Case Study repository! In this project, you’ll use Python to analyze real parking ticket data and identify which areas of Charlottesville experience the most frequent violations. All materials required to complete the case study are included here, and the analysis will be conducted using Jupyter Notebook to explore the dataset and visualize results.
 
 ## Repository Structure
+├── README.md
+
+├── LICENSE
+
+├── Hook Document.pdf
+
+├── Rubric.pdf
+
+├── SCRIPTS/
+
+│ ├── PredictiveModel.ipynb
+
+│ ├── SpatialAnalysis.ipynb
+
+├── Supplemental Materials/
+
+│ ├── Charlottesville Parking Study.pdf
+
+│ ├── Minneapolis Parking Tickets.pdf
+
+│ ├── NYC Parking Tickets Visualization.pdf
+
+│ ├── Python Heatmap.pdf
 
 ## Hook Document
 The [Parking Ticket Case Study Hook Document](CS3-Parking-Tickets/Hook%Document.pdf) introduces you to this case and what your role will be when going through the study.
